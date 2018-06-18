@@ -1,4 +1,4 @@
-# Ethereum-Claymore-11.8-No-Fee---DevFee-Removed
+# Ethereum Claymore 11.8 No Fee DevFee Removed
 
 Download Claymore 11.8 Ethereum Miner No DevFee Below
 
